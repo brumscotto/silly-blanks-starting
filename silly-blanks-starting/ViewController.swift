@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  silly-blanks-starting
-//
-//  Created by Scott Kirker on 4/20/23.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
